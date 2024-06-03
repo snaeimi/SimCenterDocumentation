@@ -91,7 +91,7 @@ floor detections performed by the model.
    :align: center
    :figclass: align-center
    :width: 600
-
+   :alt: Street view images showing buildings with green bounding boxes and model confidence levels for floor detection. 
    Sample floor detections of the floor detection model (each detection is indicated by a green bounding box). The percentage value shown on the top right corner of a bounding box indicates the model confidence level associated with that prediction.
 
 For an image, the described floor detection model generates the bounding box output for its 
@@ -120,7 +120,7 @@ testbed), was utilized.
    :align: center
    :figclass: align-center
    :width: 600
-
+   :alt: Heatmaps showing the confusion matrices for the number of floors predictor used in this study. 
    Confusion matrices for the number of floors predictor used in this study.
 
 .. _lbl-testbed_LC_asset_description_meanroofht:
@@ -139,7 +139,7 @@ the average of these dimensions.
    :align: center
    :figclass: align-center
    :width: 600
-   
+   :alt: Elevation schematic diagrams demonstrating elevation quantities for different foundation systems in coastal areas.    
    Schematics demonstrating elevation quantities for different foundation systems common in coastal areas.
 
 The MeanRoofHt is based on the following AI technique. :numref:`mean_roof_ht_app` 
@@ -187,7 +187,7 @@ which is in line with general intuition.
    :align: center
    :figclass: align-center
    :width: 400
-
+   :alt: Scatter plot of predicted mean roof height versus the number of floors. 
    AI-predicted MeanRoofHt versus number of floors.
 
 Attribute: FirstFloorElevation
@@ -209,7 +209,7 @@ AI-predicted roof pitch ratios. As expected, very little correlation between the
    :align: center
    :figclass: align-center
    :width: 400
-
+   :alt: Scatter plot of AI-predicted roof slope versus mean roof height.   :alt: Scatter plot of AI-predicted roof slope versus mean roof height.
    AI-predicted RoofSlope versus mean roof height.
    
 Attribute: RoofShape
@@ -233,7 +233,7 @@ The trained classifier was employed here to classify the roof information for At
    :align: center
    :figclass: align-center
    :width: 500
-   
+   :alt: Satellite and diagram images illustrating roof type classifications (flat, gable, and hip roofs).    
    Roof type classification with examples of aerial images (a-f) and simplified archetypes (d-f) used by Hazus.
 
 The performance of the roof shape classifier was validated against two ground truth datasets.
@@ -252,7 +252,7 @@ if the classification is perfect, affirming the accuracy of the classification b
    :align: center
    :figclass: align-center
    :width: 600
-
+   :alt: Heatmaps showing validation of BRAILS predicted roof shapes using data from OpenStreetMap and StEER. 
    Validation of BRAILS predicted roof shapes to roof shapes from OpenStreetMap and StEER.
 
 Attribute: RoofSlope
