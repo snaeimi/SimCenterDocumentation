@@ -61,6 +61,7 @@ described based on a variety of data sources (:numref:`fig-buildingClassSFBA`).
    :align: center
    :figclass: align-center
    :width: 1200
+   :alt: Geospatial visualization of subclasses of buildings in the San Francisco Bay Area. 
 
    Geospatial visualization of subclasses of buildings in San Francisco Bay Area.
 
@@ -81,6 +82,7 @@ San Francisco, Oakland, and San Jose.
    :align: center
    :figclass: align-center
    :figwidth: 1200
+   :alt: Distribution of building construction years in the San Francisco Bay Area. 
 
    Distribution of year built for buildings.
 
@@ -90,6 +92,7 @@ San Francisco, Oakland, and San Jose.
    :align: center
    :figclass: align-center
    :figwidth: 1200
+   :alt: Distribution of different occupancy types for buildings in the San Francisco Bay Area. 
 
    Distribution of occupancy types.
 
@@ -99,6 +102,7 @@ San Francisco, Oakland, and San Jose.
    :align: center
    :figclass: align-center
    :figwidth: 1200
+   :alt: Distribution of total number of stories for buildings in the San Francisco Bay Area. 
 
    Distribution of total story numbers for buildings.
 
@@ -108,6 +112,7 @@ San Francisco, Oakland, and San Jose.
    :align: center
    :figclass: align-center
    :figwidth: 1200
+   :alt: Distribution of primary construction material types for buildings in the San Francisco Bay Area.
 
    Distribution of primary construction material types.
 

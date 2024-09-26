@@ -83,10 +83,12 @@ to execute in 40 minutes using five Skylake (SKX) nodes (240 cores) on `Frontera
    * - R2D
      - `v1.1.1 <https://www.designsafe-ci.org/data/browser/public/designsafe.storage.community/SimCenter/Software/R2Dt>`_
      - .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5033626.svg
+        :alt: [https://zenodo.org/badge/DOI/10.5281/zenodo.5033626.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.5033626.svg): Zenodo badge displaying the DOI 10.5281/zenodo.5033626 for the R2D software version v1.1.1 
           :target: https://doi.org/10.5281/zenodo.5033626
    * - AssetRepresentationRulesets
      - `v1.0.0 <https://github.com/NHERI-SimCenter/AssetRepresentationRulesets/releases/tag/v1.0.0>`_
      - .. image:: https://zenodo.org/badge/DOI/10.5281/zenodo.5496056.svg
+        :alt: [https://zenodo.org/badge/DOI/10.5281/zenodo.5496056.svg](https://zenodo.org/badge/DOI/10.5281/zenodo.5496056.svg): Zenodo badge displaying the DOI 10.5281/zenodo.5496056 for the Asset Representation Rulesets version v1.0.0
           :target: https://doi.org/10.5281/zenodo.5496056
    * - DesignSafe Project PRJ-3314
      - v1.0

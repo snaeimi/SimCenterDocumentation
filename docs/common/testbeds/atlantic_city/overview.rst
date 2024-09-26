@@ -74,6 +74,7 @@ only or the combination of wind and floodplain hazards.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Geospatial visualization of subclasses of buildings in the Atlantic County Inventory. 
 
    Geospatial visualization of subclasses of buildings in the Atlantic County Inventory.
 
@@ -91,6 +92,7 @@ in Atlantic County.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Geospatial visualization of subclasses of buildings in the Flood-Exposed Inventory. 
 
    Geospatial visualization of subclasses of buildings in the Flood-Exposed Inventory.
 
@@ -109,6 +111,7 @@ wind and floodplain hazards.
    :align: center
    :figclass: align-center
    :width: 700
+   :alt: Geospatial visualization of subclasses of buildings in the Flood-Exposed Inventory for the Exploration Inventory. 
 
    Geospatial visualization of subclasses of buildings in the Flood-Exposed Inventory.
 
@@ -126,6 +129,7 @@ Atlantic City.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Distribution of the number of buildings by municipality. 
 
    Distribution of the number of buildings by municipality.
 
@@ -135,6 +139,7 @@ Atlantic City.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Distribution of buildings by year built. 
 
    Distribution of buildings by year built.
 
@@ -144,6 +149,7 @@ Atlantic City.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Distribution of buildings by occupancy type. 
 
    Distribution of buildings by occupancy type.
 
@@ -153,6 +159,7 @@ Atlantic City.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Distribution of buildings by total number of stories. 
 
    Distribution of buildings by total number of stories.
 
@@ -162,6 +169,7 @@ Atlantic City.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Distribution of primary construction material types.
 
    Distribution of primary construction material types.
 

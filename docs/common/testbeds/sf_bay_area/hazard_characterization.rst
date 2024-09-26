@@ -39,6 +39,7 @@ based on the 25 ground motions at each site.
     :align: center
     :figclass: align-center
     :figwidth: 800
+   :alt: A visual representation of peak ground acceleration in the East-West direction for the Mw 7.0 Hayward earthquake. 
 
     Peak ground acceleration (East-West direction) for the Mw 7.0 Hayward earthquake.
 
@@ -47,6 +48,7 @@ based on the 25 ground motions at each site.
     :align: center
     :figclass: align-center
     :figwidth: 800
+   :alt: A visual representation of peak ground acceleration in the North-South direction for the Mw 7.0 Hayward earthquake.
 
     Peak ground acceleration (North-South direction) for the Mw 7.0 Hayward earthquake.
 

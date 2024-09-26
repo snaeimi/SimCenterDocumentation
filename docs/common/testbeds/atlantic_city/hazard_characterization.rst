@@ -66,6 +66,7 @@ the coastal cities.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Map showing interpolated peak wind speed (3s-gust) across the asset inventory in the testbed region. 
 
    Interpolated peak wind speed (3s-gust) for each asset in the inventory.
 
@@ -104,6 +105,7 @@ Flood Damage and Loss Assessment.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Map showing interpolated peak water depth across the asset inventory in the testbed region. 
 
    Interpolated peak water depth for each asset in the inventory.
 
@@ -172,6 +174,7 @@ directly used in the presented hurricane workflow, as visualized in :numref:`ara
    :align: center
    :figclass: align-center
    :width: 500
+   :alt: Map showing ARA 3-second gust peak wind speed during Hurricane Sandy in Atlantic County. 
 
    ARA 3-s gust peak wind speed (3-s gust at 10 m) in Atlantic County during Hurricane Sandy.
 
@@ -199,6 +202,7 @@ the presented hurricane workflow.
    :align: center
    :figclass: align-center
    :width: 500
+   :alt: Map showing simulated storm surge field of Hurricane Sandy by ADCIRC. 
 
    Simulated storm surge field of Hurricane Sandy by ADCIRC (by courtesy of Dr. Westerink).
 
@@ -207,6 +211,7 @@ the presented hurricane workflow.
    :align: center
    :figclass: align-center
    :width: 500
+   :alt: Map showing simulated water elevation of Hurricane Sandy by ADCIRC in Atlantic County. 
 
    Simulated water elevation of Hurricane Sandy by ADCIRC (Atlantic County).
 
@@ -215,6 +220,7 @@ the presented hurricane workflow.
    :align: center
    :figclass: align-center
    :width: 500
+   :alt: Map showing simulated water depth over land for Hurricane Sandy by ADCIRC in Atlantic County.
 
    Simulated water depth over land for Hurricane Sandy by ADCIRC (Atlantic County).
 

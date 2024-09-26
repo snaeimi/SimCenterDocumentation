@@ -33,7 +33,12 @@ coupled), and the parameterized models allow for more efficient storage and comp
    :align: center
    :figclass: align-center
    :width: 600
+<<<<<<< HEAD
+   :alt: Graphical representation of fitted HAZUS wind damage functions for different building classes. 
 
+=======
+   :alt: Graph displaying fitted wind damage functions as a function of peak wind gust speed for different building classes and damage states. 
+>>>>>>> 155d68959d3b2d45aeedc143e2d70824a1908cbc
    Fitted HAZUS wind damage functions for example building classes.
 
 2. For the **flood loss assessment**, the HAZUS functions are in the form of depth-damage ratio curves, relating
@@ -45,7 +50,12 @@ coupled), and the parameterized models allow for more efficient storage and comp
    :align: center
    :figclass: align-center
    :width: 600
+<<<<<<< HEAD
+   :alt: Depth-damage ratio curves showing flood loss assessment based on peak water depth related to building replacement cost.
 
+=======
+   :alt: Graph showing depth-damage ratio curves that relate peak water depth to the percentage of total replacement cost for various asset types during flood assessment.
+>>>>>>> 155d68959d3b2d45aeedc143e2d70824a1908cbc
    Depth-damage ratio curves for the flood loss assessment.
 
 The **total loss** from wind and flood damages is estimated by combining the "wind-only" and "flood-only"

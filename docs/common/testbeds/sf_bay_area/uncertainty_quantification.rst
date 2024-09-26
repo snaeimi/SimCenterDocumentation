@@ -33,6 +33,7 @@ grid points can be repeated as these 25 samples are also intended for considerin
    :align: center
    :figclass: align-center
    :figwidth: 800
+   :alt: A diagram showing the nearest-neighbors method for sampling site hazard uncertainty, with red square dots and yellow circles representing asset locations and nearest neighbors, respectively.
 
    Nearest-neighbors method for sampling site hazard uncertainty.
 

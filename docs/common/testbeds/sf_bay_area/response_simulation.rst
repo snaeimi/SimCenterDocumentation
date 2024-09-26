@@ -34,6 +34,7 @@ peak floor acceleration is around 4 g in the second story).
    :align: center
    :figclass: align-center
    :figwidth: 900
+   :alt: Time-series plot of simulated ground motion accelerations in two orthogonal directions. 
 
    Example ground motion acceleration histories of simulated SW4 seismograms.
 
@@ -43,6 +44,7 @@ peak floor acceleration is around 4 g in the second story).
    :align: center
    :figclass: align-center
    :figwidth: 1200
+   :alt: Line graph showing the variation of story drift ratio and peak floor acceleration for a wood frame structure under specific ground motions. 
 
    Structural responses of the wood frame under the example ground motion pair.
 
@@ -61,6 +63,7 @@ of the simulated structural responses of the example wood frame.
    :align: center
    :figclass: align-center
    :figwidth: 700
+   :alt: Histogram depicting the distribution of structural response parameters for a wood frame building subjected to multiple ground motion pairs given modeling uncertainties.
 
    Simulated structural response distribution of the wood frame with modeling uncertainty under the 25 ground motion pairs.
 

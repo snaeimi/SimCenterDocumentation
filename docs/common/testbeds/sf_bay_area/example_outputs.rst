@@ -27,6 +27,7 @@ panels; or cracks in brick chimneys or toppling of tall masonry chimneys.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Map showing the expected structural damage states of buildings in the San Francisco testbed area.
 
    Expected structural damage states from San Francisco testbed.
 
@@ -50,6 +51,7 @@ elevator machinery and rails may require realignment.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Map illustrating the expected non-structural damage states of buildings in the San Francisco testbed area.
 
    Expected non-structural damage states from San Francisco testbed.
 
@@ -59,6 +61,7 @@ elevator machinery and rails may require realignment.
    :align: center
    :figclass: align-center
    :width: 700
+   :alt: Chart presenting detailed breakdown statistics of structural and non-structural damage states for an example wood frame building.
 
    Structural and non-structural damage states of the example wood frame (as introduced in :ref:`lbl-testbed_SF_response_simulation`).
 
@@ -92,6 +95,7 @@ San Francisco Bay Area.
    :align: center
    :figclass: align-center
    :width: 1000
+   :alt: Comparative map of building loss ratios from the San Francisco testbed study (SimCenter) and the Haywired scenario (USGS).
 
    Comparison of building loss ratios from San Francisco testbed - SimCenter (left), USGS-Haywired (right).
 

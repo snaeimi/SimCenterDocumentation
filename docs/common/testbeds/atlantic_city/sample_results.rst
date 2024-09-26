@@ -22,6 +22,7 @@ roughness (:math:`z_0`), peak wind speed (PWS), and peak water depth (PWD).
    :align: center
    :figclass: align-center
    :width: 700
+   :alt: Scatter plot matrix showing data distributions of the built year, surface roughness, peak wind speed, and peak water depth for sampled buildings. 
 
    Scatter matrix of sampled buildings.
 
@@ -47,6 +48,7 @@ are due to the random sampling process in estimating the expected loss ratios.
    :align: center
    :figclass: align-center
    :width: 600
+   :alt: Bar chart comparing hand-calculated loss ratios with simulated results for different hurricane categories. 
 
    Hand-calculated results vs. simulated results
 
@@ -63,6 +65,7 @@ and masonry buildings perform better than wood buildings and manufactured homes 
    :align: center
    :figclass: align-center
    :width: 600
+   :alt: Bar chart displaying average expected wind losses categorized by building class. 
 
    Average expected wind losses by building class.
 
@@ -79,5 +82,6 @@ comparison is made for the limited sample size in this verification study.
    :align: center
    :figclass: align-center
    :width: 600
+   :alt: Line graph illustrating average expected wind losses of wood buildings categorized by the year built.
 
    Average expected wind losses of wood buildings by year built.

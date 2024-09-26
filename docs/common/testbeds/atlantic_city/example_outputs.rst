@@ -17,6 +17,7 @@ After successfully downloading and launching, the major steps for setting up the
       :name: r2d_gi
       :align: center
       :figclass: align-center
+      :alt: R2D interface General Information (GI) settings. 
       :width: 500
 
       R2D GI setup.
@@ -29,6 +30,7 @@ After successfully downloading and launching, the major steps for setting up the
       :name: r2d_haz
       :align: center
       :figclass: align-center
+      :alt: R2D interface Hazard (HAZ) setup showing the wind field event file. 
       :width: 500
 
       R2D HAZ setup.
@@ -40,6 +42,7 @@ After successfully downloading and launching, the major steps for setting up the
       :name: r2d_asd
       :align: center
       :figclass: align-center
+      :alt: R2D interface Asset Definition (ASD) setup with BIM file import. 
       :width: 500
 
       R2D ASD setup.
@@ -49,6 +52,7 @@ After successfully downloading and launching, the major steps for setting up the
       :name: r2d_hta
       :align: center
       :figclass: align-center
+      :alt: R2D interface Hazard Technician Application (HTA) setup for regional mapping and event generation. 
       :width: 500
 
       R2D HTA setup.
@@ -59,6 +63,7 @@ After successfully downloading and launching, the major steps for setting up the
    :align: center
    :figclass: align-center
    :width: 500
+   :alt: R2D interface Modeling (MOD) setup with building modeling options. 
 
    R2D MOD setup.
 #. Set the "Building Analysis Engine" in the **ANA** panel to "IMasEDP". 
@@ -67,6 +72,7 @@ After successfully downloading and launching, the major steps for setting up the
       :name: r2d_ana
       :align: center
       :figclass: align-center
+      :alt: R2D interface Analysis (ANA) setup with the Building Analysis Engine. 
       :width: 500
 
    R2D ANA setup.
@@ -80,6 +86,7 @@ After successfully downloading and launching, the major steps for setting up the
       :name: r2d_dl
       :align: center
       :figclass: align-center
+      :alt: R2D interface Damage and Loss (DL) setup with the chosen method and ruleset scripts. 
       :width: 500
 
    R2D DL setup.
@@ -89,6 +96,7 @@ After successfully downloading and launching, the major steps for setting up the
       :name: r2d_uq
       :align: center
       :figclass: align-center
+      :alt: R2D interface Uncertainty Quantification (UQ) setup with selected application. 
       :width: 500
 
    R2D UQ setup.
@@ -101,6 +109,7 @@ the app will direct you to the **RES** panel (:numref:`r2d_res`) where you can e
    :align: center
    :figclass: align-center
    :width: 500
+   :alt: R2D interface Results (RES) panel displaying post-simulation options. 
 
    R2D RES panel.
 
@@ -119,6 +128,7 @@ total number of buildings in the inventory to be analyzed.
    :name: r2d_mod
    :align: center
    :figclass: align-center
+   :alt: R2D configuration to run a simulation at DesignSafe platform. 
    :width: 500
 
 R2D - Run at DesignSafe (Configuration)
@@ -135,6 +145,7 @@ the results from this testbed as an example to discuss more details.
    :align: center
    :figclass: align-center
    :width: 400
+   :alt: Button and interface to retrieve data from DesignSafe. 
 
    R2D GET from DesignSafe.
 
@@ -149,6 +160,7 @@ scenarios (:numref:`hurricane_cat`) are shown in :numref:`dl_c2` to :numref:`dl_
    :align: center
    :figclass: align-center
    :width: 700
+   :alt: Estimated regional loss map for a Category 2 hurricane. 
 
    Estimated regional loss maps for the **Category 2** hurricane.
 
@@ -157,6 +169,7 @@ scenarios (:numref:`hurricane_cat`) are shown in :numref:`dl_c2` to :numref:`dl_
    :align: center
    :figclass: align-center
    :width: 700
+   :alt: Estimated regional loss map for a Category 3 hurricane. 
 
    Estimated regional loss maps for the **Category 3** hurricane.
 
@@ -165,6 +178,7 @@ scenarios (:numref:`hurricane_cat`) are shown in :numref:`dl_c2` to :numref:`dl_
    :align: center
    :figclass: align-center
    :width: 700
+   :alt: Estimated regional loss map for a Category 4 hurricane. 
 
    Estimated regional loss maps for the **Category 4** hurricane.
 
@@ -173,6 +187,7 @@ scenarios (:numref:`hurricane_cat`) are shown in :numref:`dl_c2` to :numref:`dl_
    :align: center
    :figclass: align-center
    :width: 700
+   :alt: Estimated regional loss map for a Category 5 hurricane. 
 
    Estimated regional loss maps for the **Category 5** hurricane.
 
@@ -184,6 +199,7 @@ summarized in :numref:`cl_c2` to :numref:`cl_c5`.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: City-wise average expected loss ratios for a Category 2 hurricane. 
 
    City-wise average expected loss ratios (**Category 2** hurricane).
 
@@ -192,6 +208,7 @@ summarized in :numref:`cl_c2` to :numref:`cl_c5`.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: City-wise average expected loss ratios for a Category 3 hurricane. 
 
    City-wise average expected loss ratios (**Category 3** hurricane).
 
@@ -200,6 +217,7 @@ summarized in :numref:`cl_c2` to :numref:`cl_c5`.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: City-wise average expected loss ratios for a Category 4 hurricane. 
 
    City-wise average expected loss ratios (**Category 4** hurricane).
 
@@ -208,6 +226,7 @@ summarized in :numref:`cl_c2` to :numref:`cl_c5`.
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: City-wise average expected loss ratios for a Category 5 hurricane. 
 
    City-wise average expected loss ratios (**Category 5** hurricane).
 
@@ -222,6 +241,7 @@ with post-2000 buildings found to perform much better than buildings from other 
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Average expected wind loss ratios for Atlantic City. 
 
    Average expected wind loss ratios (Atlantic City).
 
@@ -230,6 +250,7 @@ with post-2000 buildings found to perform much better than buildings from other 
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Average expected wind loss ratios for Brigantine. 
 
    Average expected wind loss ratios (Brigantine).
 
@@ -238,6 +259,7 @@ with post-2000 buildings found to perform much better than buildings from other 
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Average expected wind loss ratios for Galloway. 
 
    Average expected wind loss ratios (Galloway).
 
@@ -246,6 +268,7 @@ with post-2000 buildings found to perform much better than buildings from other 
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Average expected wind loss ratios for Margate City. 
 
    Average expected wind loss ratios (Margate City).
 
@@ -254,6 +277,7 @@ with post-2000 buildings found to perform much better than buildings from other 
    :align: center
    :figclass: align-center
    :width: 800
+   :alt: Average expected wind loss ratios for Ventor City.
 
    Average expected wind loss ratios (Ventor City).
 

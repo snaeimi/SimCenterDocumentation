@@ -61,6 +61,7 @@ illustrated in :numref:`nearestneighbors`. The peak wind speed and storm surge v
    :align: center
    :figclass: align-center
    :width: 700
+   :alt: A diagram illustrating the nearest-neighbors method for sampling site hazard uncertainty.
 
    Nearest-neighbors method for sampling site hazard uncertainty.
 
