@@ -129,4 +129,4 @@ required inputs, and some benefits/limitations are summarized in :numref:`tab-R2
      - Users need to prepare their earthquake source model.
 
 .. [Styron2020]
-   Styron, Richard, and Marco Pagani. “The GEM Global Active Faults Database.” Earthquake Spectra, vol. 36, no. 1_suppl, Oct. 2020, pp. 160–180, doi:10.1177/8755293020944182.
+   Styron, R., & Pagani, M. (2020). The GEM global active faults database. Earthquake Spectra, 36(1_suppl), 160-180.

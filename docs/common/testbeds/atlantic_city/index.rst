@@ -50,7 +50,7 @@ DesignSafe and the versioned source codes are archived via Zenodo. Other related
 
 This version history of the documentation is tracked in :numref:`doc_version_AC`
 and the versions of all applications and rulesets of the current version of the testbed are reported in :numref:`software_version_AC`.
-:numref:`brails_version_LC` provides the versions of BRAILS and its various classifiers used in the generation of results herein.
+:numref:`brails_version_AC` provides the versions of BRAILS and its various classifiers used in the generation of results herein.
 
 .. list-table:: Testbed Version History
    :name: doc_version_AC
@@ -141,7 +141,7 @@ application in Atlantic County. Use Case 2 generally requires skill sets in :ref
 Revised damage and loss models or extensions to the heuristic rulesets can be contributed back to the SimCenter 
 to expand the capabilities of this community software. 
 
-If you have any feedback or questions, please check out the `SimCenter Regional Testbeds <http://simcenter-messageboard.designsafe-ci.org/smf/index.php?board=22.0>`_. 
+If you have any feedback or questions, please check out the |messageBoard|. 
 This forum can also be browsed for additional updates, answers to Frequently Asked Questions, and suggestions from the SimCenter team and user community.
 
 .. _lbl-testbeds-manual:
@@ -149,7 +149,6 @@ This forum can also be browsed for additional updates, answers to Frequently Ask
 .. toctree-filt::
    :maxdepth: 1
 
-   acknowledgements
    overview
    asset_description
    hazard_characterization
